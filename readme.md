@@ -12,3 +12,5 @@ I manage my dotfiles using [homesick][hs].
 Actually, it is probably better if you fork the repo and work with your own
 copy.
 
+[brew]: http://mxcl.github.com/homebrew/
+
